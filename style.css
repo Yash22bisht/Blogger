@@ -1,0 +1,224 @@
+
+    body {
+      width:100% ;
+      height: 10000px;
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: rgb(245, 237, 227);
+    }
+
+    header {
+      /* background-color: #fbfbfb; */
+      /* color: hsl(196, 94%, 38%); */
+      padding: 30px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      position: relative;
+      left: 15px;
+      font-size: 52px;
+      font-weight: 1000;
+      font-style: italic;
+      font-family: Brush Script;
+    }
+    nav {
+      display: flex;
+      align-items: center;
+      font-family: Brush Script;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+    }
+
+    nav ul li {
+      margin-right: 20px;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #0f0f0f;
+      font-weight: bold;
+      font-size: 21px;
+    }
+
+    /* .search-box {
+      margin-left: 20px;
+      padding: 5px;
+      border: 1px solid #0e0d0d;
+      border-radius: 5px;
+      border-radius: 10px;
+    } */
+    .search{
+      height: 33px;
+      font-family: Brush Script;
+      width: 175px;
+      border-radius: 10px;
+      border: 2px solid black;
+      padding: 0px 10px;
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    .back1{
+      width :100%;
+      position: relative;
+      height: 650px;
+      z-index: 0;
+    }
+    .wel{
+      z-index: 1;
+      position: relative;
+      top: -525px;
+      left: 0px;
+      background-color: rgba(0, 128, 0, 0.342);
+      font-size: 25px;
+      font-family: Alegreya;
+      font-weight: 500;
+
+    }
+    .welc{
+      position: relative;
+      top: 10px;
+      font-size: 100px;
+      left: 550px;
+    }
+    .para{
+      font-style: italic;
+      position: relative;
+      top: -49px;
+      font-size: 28px;
+      left: 580px;
+    }
+    .back2{
+      position: relative;
+      top: -240px;
+      left: 315px;
+      width:26%;
+      height: 361px;
+      filter: saturate(3);
+    }
+    
+    /* .write2{
+      position: relative;
+      top:2px ;
+      left: 2px;
+      background-color: red;
+      
+    } */
+    .h{
+      position: relative;
+      font-family: serif;
+      font-size: 35px;
+      top:-620px ;
+      left:760px ;
+    }
+    .p{
+      position: relative;
+      font-family: serif;
+      font-size: 20px;
+      top: -618px;
+      left: 760px;
+    }
+    .bor{
+      border: 3px solid olive;
+      width:898px ;
+      height: 358px;
+      position: relative;
+      left: 313px;
+      top: -865px;
+    }
+    .grow{
+      position: relative;
+      top: -550px;
+    }
+    .bor1{
+      border: 3px solid olive;
+      width:898px ;
+      height: 358px;
+      position: relative;
+      left: 313px;
+      top: -848px;
+    }
+    .design{
+      position: relative;
+      top: -1074px;
+    }
+    .bor2{
+      border: 3px solid olive;
+      width:898px ;
+      height: 358px;
+      position: relative;
+      left: 313px;
+      top: -823px;
+    }
+    .yourself{
+      width :100%;
+      height: 650px;
+      position: relative;
+      top: -1850px;
+      z-index: 0;
+      background-color: #044939;
+    }
+    .back5{
+      width: 435px;
+      height: 420px;
+      position: relative;
+      top: 85px ;
+      left: 250px;
+      z-index: 2;
+    }
+    .shad{
+      width: 435px;
+      height: 420px;
+      position: relative;
+      top: -320px ;
+      left: 235px;
+      z-index: 1;
+      background-color: black;
+    }
+    .fea{
+      font-family: 'Times New Roman', Times, serif;
+      font-size:53px ;
+      font-weight: 525;
+      font-style: italic;
+      position: relative;
+      top: -750px ;
+      left: 875px;
+      z-index: 1;
+    }
+    .only{
+      font-family: 'Times New Roman';
+      font-size:35px ;
+      font-style: italic;
+      font-weight: 507;
+      position: relative;
+      top: -780px ;
+      left: 1000px;
+      z-index: 1;
+    }
+    .tell{
+      font-style: italic;
+      font-size:20px ;
+      position: relative;
+      top: -810px ;
+      left: 840px;
+      z-index: 1;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      position: relative;
+      top: -1670px ;
+      width: 100%;
+    }
+
+
+  
